@@ -1,1 +1,124 @@
 
+
+
+
+@media screen and (max-width: 481px) {
+
+body{
+width: 100%;
+height: 100%;
+margin: 0 0 0 0;
+padding: 0 0 0 0;
+}
+
+.navBar{
+width: 100%;
+height: 50px;
+background-color: #d97b41AA;
+padding: 0 0 0 0;
+margin: 0 0 0 0;
+position: absolute;
+z-index: 2;
+max-width: 100vw;
+display: flex;
+align-items: center;
+}
+
+.introimg {
+position: relative;
+background-size: cover;
+background-image: url("img/20230321123835.png");
+margin: 0;
+padding: 0 0 0 0;
+height: 100vh;
+width: 100%;
+z-index: 1;
+}
+
+
+.Q1 {
+background-color: #d97b41;;
+color: black;
+font-weight: bold;
+position: relative;
+}
+
+.Ans1 {
+margin: 0 10% 0 10%;
+background-color: #d97b41;
+color: black;
+position: relative;
+height: 20%;
+width: 30%;
+font-size: 15px;
+}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+@media screen and (min-width: 481px) {
+
+body{
+width: 100%;
+height: 100%;
+margin: 0 0 0 0;
+padding: 0 0 0 0;
+}
+
+.navBar{
+width: 100%;
+height: 50px;
+background-color: #d97b41AA;
+padding: 0 0 0 0;
+margin: 0 0 0 0;
+position: absolute;
+z-index: 2;
+display: flex;
+align-items: center;
+}
+
+#mobileNavLogo{
+width: 30%;
+height: 45px;
+background-image: url("")
+}
+.introimg {
+position: relative;
+background-size: cover;
+background-repeat: no-repeat;
+background-image: url("https://ik.imagekit.io/Tanner/5312040E-55E9-4988-B302-E67EAC7E0E6C.jpeg?updatedAt=1679425752544");
+margin: 0;
+padding:0;
+height: 100vh;
+width: 100%;
+z-index: 1;
+}
+
+.Q1 {
+background-color: #d97b41;
+color: white;
+font-weight: bold;
+position: relative;
+width: 100%;
+}
+
+.Ans1 {
+margin: 0 auto 0 auto;
+background-color: #d97b41;
+color: black;
+position: relative;
+height: 20%;
+width: 100%;
+font-size: 15px;
+}
+}
+
