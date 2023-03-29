@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>About Us page</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <nav class="navBar">
+<p class="desktopNavName">The Mason Bradley Holmberg Foundation</p>
+<button class="buttons">Home</button>
+<button class="buttons">About</button>
+<div class="mobileNavlogo"></div>
+<button class="buttons">News</button>
+<button class="buttons"onclick="window.location.href='https://gofund.me/632f1494';">Donate</button>
+</nav>
+
+<div class="introimg"></div>
+<h2>Passion<br>Led<br>Us<br>Here</h2>
+
+<div class="triangle1"></div>
+
+<i class="fa-solid fa-people-group" style="color: #d97b41;"></i>
+
+<div class="staffHeader"><h4>Our Staff</h4></div>
+
+
+<!-- Picture of Brad --> 
+<div id="founderpic"></div>
+
+<!--Name and motto that lies underneat Brads picture --> 
+<div class="Motto"><p>Brad Holmberg<br>Family, Virtue, Dignity</p></div>
+
+<!-- image of orange quotation marks right above Quotation  --> 
+<div class="TopQuoteMark"></div>
+
+<!-- Quotation for brad --> 
+<div class="Quotation"><p>I had never imagined that the opioid crisis would ever effect my family. That was until I lost my oldest son to Fentanyl poisoning. Thats why I am dedicated to ending the havoc that fentanyl and opioids like it have wrecked upon countless american families.</p>
+</div>
+
+<!-- About statement for brad --> 
+<div class="About"><p>Brad Holmberg is the founder and President of The Mason Bradly Holmberg Foundation. He is the father of Mason Holmberg who was killed by fatal fentanyl poisoning.</p>
+</div>
+
+<!-- picture of Tanner --> 
+<div id="TannerPhoto"></div>
+
+<!-- Text underlying picture of tanner --> 
+<div class="Motto"><p>Tanner Holmberg<br>Family, Tradition, Forgiveness</p></div>
+
+<!-- image of orange quotation mark about quote --> 
+<div class="TopQuoteMark"></div>
+
+<!-- Quotation --> 
+<div class="Quotation"><p>The death of my brother, for me, is not the end. It is the beginning of a new life long journey to help those who have been hurt by opioids to gain a sense of hope in the madness. All in Mason and Gods name</p>
+</div>
+
+<!-- About statement for tanner --> 
+<div class="About"><p>Tanner Holmberg is the Vice President of The Mason Bradly Holmberg Foundation as well as the creator of this website. He is the brother of Mason Holmberg who was killed by fatal fentanyl poisoning.</p>
+</div>
+
+<!-- image of stacey --> 
+<div id="StaceyPhoto"></div>
+
+<!-- text underlying photo --> 
+<div class="Motto"><p>Stacey Holmberg<br>Motherhood, Teaching, Love</p></div>
+
+<!-- image of orange quotation mark --> 
+<div class="TopQuoteMark"></div>
+
+<!--Quote for stacey --> 
+<div class="Quotation"><p>The death of my brother, for me, is not the end. It is the beginning of a new life long journey to help those who have been hurt by opioids to gain a sense of hope in the madness. All in Mason and Gods name</p></div>
+
+<!-- About statement for stacey  --> 
+<div class="About"><p>Stacey Holmberg is the Treasurer of The Mason Bradly Holmberg Foundation. Stacey is the mother of Mason Holmberg who was killed by fatal fentanyl poisoning.</p>
+</div>
+<div class="borderTop"></div>
+<div class="line"></div>
+<div class="circle"></div>
+<div class="statement"><div class="circleBackground"></div>Please watch the video below to hear our story.
+</div>
+<div class="circlespace"></div>
+<div class="line"></div>
+<div class="black">
+<!-- embedded youtube video that points to mini documentary made of mason --> 
+<iframe id="video" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"width="100%" height="443" type="text/html" src="https://www.youtube.com/embed/reO3XNiuBxs?autoplay=0&fs=0&iv_load_policy=3&showinfo=0&rel=0&cc_load_policy=0&start=0&end=0&origin=http://youtubeembedcode.com"><div><small><a href="https://youtubeembedcode.com/pl/">youtubeembedcode.com/pl/</a></small></div><div><small><a href="https://harpangratis.se/">harpangratis.se</a></small></div></iframe>
+
+
+<div class="bottom">
+<img class="bottomImg" src="https://ik.imagekit.io/Tanner/Phoenix_Logo.png?updatedAt=1679430306423">
+
+<p class="bottomText">We are a nonprofit fighting opioid addiction and the effects it has on Americans</p>
+<div class="social">
+<a class="link2" href="#">Facebook</a>
+</div>
+</div> 
+</div>
+
+  <script src="script.js"></script>
+<script src="https://kit.fontawesome.com/b8d15960ca.js" crossorigin="anonymous"></script>
+</body>
+</html>
