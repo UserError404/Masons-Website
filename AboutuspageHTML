@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>About Us page</title>
-  <link rel="stylesheet" type="text/css" href="https://raw.githubusercontent.com/UserError404/Masons-Website/main/About%20us%20page%20CSS">
+  <link rel="stylesheet" type="text/css" href="https://raw.githubusercontent.com/UserError404/Masons-Website/main/AboutuspageCSS">
 </head>
 <body>
   <nav class="navBar">
