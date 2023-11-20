@@ -72,7 +72,7 @@ z-index: 1;
 position: relative;
 background-size: cover;
 background-repeat: no-repeat;
-background-image: url("Pils.jpeg");
+background-image: url("./Pills.jpeg");
 margin: 0;
 padding:0;
 height: 100vh;
