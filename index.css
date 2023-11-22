@@ -229,7 +229,7 @@ text-align: center;
 #founderpic {
 width: 300px;
 height: 300px;
-background-image: url("https://ik.imagekit.io/Tanner/4C3421DB-46B6-45BA-9898-6CC4DBA794B8.jpeg?updatedAt=1679509732713");
+background-image: url("images/Brad.jpeg");
 background-size: contain;
 margin-top: 50px;
 margin-left: auto;
@@ -335,7 +335,7 @@ text-align: center;
 #founderpic {
 width: 300px;
 height: 300px;
-background-image: url("https://ik.imagekit.io/Tanner/4C3421DB-46B6-45BA-9898-6CC4DBA794B8.jpeg?updatedAt=1679509732713");
+background-image: url("images/Brad.jpeg");
 background-size: contain;
 margin-top: 50px;
 margin-left: auto;
@@ -354,7 +354,7 @@ text-align: center;
 #TannerPhoto {
 width: 300px;
 height: 300px;
-background-image: url("https://ik.imagekit.io/Tanner/B5C4B0F7-A570-47B7-BBEC-FE471A54FDAF.jpeg?updatedAt=1679509734124");
+background-image: url("images/Tanner.jpeg");
 background-size: cover;
 background-repeat: no-repeat;
 margin-top: 50px;
@@ -368,7 +368,7 @@ border: 3px solid #d97b41;
 #StaceyPhoto {
 width: 300px;
 height: 300px;
-background-image: url("https://ik.imagekit.io/Tanner/9ACD0018-69E0-4CF8-9769-2C3518F7F0EA.jpeg?updatedAt=1679509732970");
+background-image: url("images/stacey.jpg");
 background-size: cover;
 background-repeat: no-repeat;
 margin-top: 50px;
@@ -392,7 +392,7 @@ position: static;
 .TopQuoteMark {
 height: 30px;
 width: 50px;
-background-image: url("https://ik.imagekit.io/Tanner/A5AF7956-3037-40B5-A2BB-10387D05C946.jpeg?updatedAt=1679509732601");
+background-image: url("images/Quotes.jpeg");
 background-size: contain;
 background-repeat: no-repeat;
 margin-left: 15%;
